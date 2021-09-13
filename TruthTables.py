@@ -5,4 +5,4 @@ table = ttg.Truths(['p', 'q'] , ['p and q', 'p or q', 'p xor q', 'p = q'], ints=
 
 print(table.as_prettytable())
 
-Ariels touch
+
